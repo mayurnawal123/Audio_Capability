@@ -1,3 +1,5 @@
 streamlit
+ffprobe
+ffmpeg
 whisper
 streamlit-audiorecorder
